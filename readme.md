@@ -52,10 +52,9 @@
  ```sh
  $ bitbake opencv 
  ```
- 
-- Client is  screening using a live program development and compiling test, also  provided is the predefined input, you have meet the mentioned output set in the program result
 
-- Once the build is complete the shhttps://alexaworkshop.com/en/custom-skill/1.create-lex.htmlared library and include file will be available in “./tmp-glibc/sysroots-components/armv7ahf-neon/opencv/usr”
+
+- Once the build is complete the shared library and include file will be available in “./tmp-glibc/sysroots-components/armv7ahf-neon/opencv/usr”
 Push the opencv shared library to the target board 
 
  ```sh
